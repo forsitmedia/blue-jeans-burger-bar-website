@@ -28,7 +28,7 @@ Current official Instagram and the delivery listing use **Rua Costa Pinto 104**;
 
 Menu items and prices were checked against the public Uber Eats listing on 18 August 2026. Delivery prices can differ from dine-in prices. Replace them with the restaurant's final approved menu.
 
-The story about the blue walls, Fernando Matos and Marina Alonso, and the younger concept is based on Time Out Lisboa's Blue Jeans profile. Ask the owners to approve the final wording.
+The story about the blue walls and the younger concept is based on Time Out Lisboa's Blue Jeans profile. Ask the owners to approve the final wording.
 
 ## Images
 
