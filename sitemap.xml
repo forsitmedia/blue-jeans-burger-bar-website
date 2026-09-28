@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://bluejeansburgerbar.pt/</loc><priority>1.0</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/menu.html</loc><priority>0.9</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/galeria.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/historia.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/contacto.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/en/</loc><priority>0.8</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/en/menu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/en/gallery.html</loc><priority>0.6</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/en/story.html</loc><priority>0.6</priority></url>
+  <url><loc>https://bluejeansburgerbar.pt/en/contact.html</loc><priority>0.7</priority></url>
+</urlset>

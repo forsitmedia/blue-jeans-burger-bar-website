@@ -1,0 +1,24 @@
+{
+  "business": {
+    "name": "Blue Jeans Burger Bar",
+    "category": "Hamburgueria e bar",
+    "phone": "+351 21 442 1021",
+    "address": "Rua Costa Pinto 104, Paço de Arcos, Oeiras",
+    "hours": {
+      "sunday_thursday": "12:00–23:00",
+      "friday_saturday": "12:00–00:00"
+    },
+    "instagram": "https://www.instagram.com/bluejeansburgerbar/"
+  },
+  "menuSource": "Public Uber Eats listing checked 2026-08-18; confirm in-room prices before launch.",
+  "burgers": [
+    {"name":"Blue Jeans","price":"€16,90"},
+    {"name":"Pepe","price":"€16,90"},
+    {"name":"Hot Pants","price":"€16,90"},
+    {"name":"Smash Burger","price":"€15,90"},
+    {"name":"501","price":"€14,50"},
+    {"name":"Vegetariano","price":"€16,90"},
+    {"name":"Denim","price":"€16,90"},
+    {"name":"Jeans","price":"€16,90"}
+  ]
+}
